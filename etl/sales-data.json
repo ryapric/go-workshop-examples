@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2022-01-01",
+    "region": "East",
+    "customer_id": "1a",
+    "revenue": 10000
+  },
+  {
+    "date": "2022-01-02",
+    "region": "West",
+    "customer_id": "2b",
+    "revenue": 25000
+  },
+  {
+    "date": "2022-01-03",
+    "region": "Northeast",
+    "customer_id": "9x",
+    "revenue": 1000000
+  }
+]

@@ -1,0 +1,9 @@
+// This file is only here to make VS Code stop being angry about subdir'd modules
+go 1.19
+
+use (
+	./cli
+	./etl
+	./template-engine
+	./web-server
+)
